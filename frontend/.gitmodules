@@ -1,0 +1,3 @@
+[submodule "src/utils"] 
+  path = path_to_submodule 
+  url = https://github.com/lps-lucas-souza/projeto-sds4.git
